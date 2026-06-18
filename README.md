@@ -1,6 +1,6 @@
 # Hi there, I'm Arghyajyoti Samui 👋
 
-### Data Analyst | SQL • Python • Power BI • AWS
+### Data Analyst | SQL • Python • Power BI • AWS • Azure • Microsoft Fabric
 
 Analytical and detail-oriented Data Analyst with 2+ years of professional experience at **HCL Technologies**. I specialize in transforming complex enterprise datasets into actionable insights using Python and SQL, and designing high-impact visualizations in Power BI.
 
