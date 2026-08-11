@@ -1,4 +1,4 @@
-# Hi there, I'm Arghyajyoti Samui 👋
+# Hi there, I'm Arghyajyoti Samui 👋     
 
 ### Data Analyst | SQL • Python • Power BI • AWS • Azure • Microsoft Fabric
 
