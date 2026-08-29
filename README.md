@@ -122,8 +122,3 @@ Recognized for contributions to data-driven compliance reporting and analytics w
 - 💻 [GitHub](https://github.com/Arghyajyoti007)
 - 📧 arghyajyoti.samui0201@gmail.com
 
----
-
-### 💡 Turning Data Into Meaningful Stories
-
-*“Transforming raw data into insights that support better business decisions.”*
