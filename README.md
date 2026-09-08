@@ -61,6 +61,7 @@ My experience also includes **SAP GRC and compliance analytics**, giving me a st
 ## 🎓 Certifications
 
 - 🏅 **Microsoft Certified: Power BI Data Analyst Associate (PL-300)**
+- 🏅 **Microsoft Certified: Azure Data Fundamentals (DP 900)**
 - 📊 **Google Data Analytics Professional Certificate** – Coursera
 - ☁️ **Microsoft Certified: Azure AI Engineer Associate** – Valid through January 2027
 - 🐍 **Python for Data Science** – Grade A
